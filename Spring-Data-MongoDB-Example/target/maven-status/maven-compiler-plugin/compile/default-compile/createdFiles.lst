@@ -1,0 +1,8 @@
+com\crud\demo\model\Customer.class
+com\crud\demo\dal\CustomerDAO.class
+com\crud\demo\dal\CustomerDAOImpl.class
+com\crud\demo\controller\CustomerController.class
+com\crud\demo\dal\CustomerRepository.class
+com\crud\demo\service\CustomerService.class
+com\crud\demo\BootMongoDBApp.class
+com\crud\demo\Constants.class
